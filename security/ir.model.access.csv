@@ -1,2 +1,0 @@
-id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
-access_myodoo_module_myodoo_module,myodoo_module.myodoo_module,model_myodoo_module_myodoo_module,base.group_user,1,1,1,1
